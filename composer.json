@@ -12,5 +12,7 @@
             "email": "luba-vas251099@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
