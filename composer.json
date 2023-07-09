@@ -1,0 +1,16 @@
+{
+    "name": "lubovvasileva/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "LubovVasileva\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lubov",
+            "email": "luba-vas251099@mail.ru"
+        }
+    ],
+    "require": {}
+}
