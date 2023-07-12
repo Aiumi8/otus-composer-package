@@ -5,5 +5,7 @@
 - PHP 7.4
 
 ## Установка
+composer require lubovvasileva/otus-composer-package
 
 ## Использование
+LubovVasileva\OtusComposerPackage\Random::getRand($min, $max);
