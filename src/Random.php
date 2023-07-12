@@ -6,7 +6,7 @@ namespace LubovVasileva\OtusComposerPackage;
 class Random
 {
 	//$begin=0;
-	public function getRand($min, $max)
+	public static function getRand($min, $max)
 	{
 	$begin = file_get_contents('random.txt');
 	$result = (5*$begin+3)%1239;
